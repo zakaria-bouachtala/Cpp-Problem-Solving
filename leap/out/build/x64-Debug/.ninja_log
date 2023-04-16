@@ -1,0 +1,26 @@
+# ninja log v5
+26	4583	7021878618652152	CMakeFiles/leap.dir/test/tests-main.cpp.obj	3f8f9a059733d82e
+102	252	7021879626282814	CMakeFiles/leap.dir/leap.cpp.obj	f0233e4d24256333
+36	1101	7021880062397904	CMakeFiles/leap.dir/leap_test.cpp.obj	3256ba3fb3b05d69
+1103	2043	7021880071299278	leap.exe	bd96b640a26c5136
+2043	2458	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+2043	2458	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a
+63	1140	7021880747718834	CMakeFiles/leap.dir/leap_test.cpp.obj	3256ba3fb3b05d69
+1141	1492	7021880750499041	leap.exe	bd96b640a26c5136
+1493	1594	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+1493	1594	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a
+28	269	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+28	269	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a
+14	167	7021883771673603	CMakeFiles/leap.dir/leap.cpp.obj	f0233e4d24256333
+168	549	7021883774833845	leap.exe	bd96b640a26c5136
+550	647	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+550	647	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a
+43	156	7021886191734728	CMakeFiles/leap.dir/leap.cpp.obj	f0233e4d24256333
+33	1396	7021886204110461	CMakeFiles/leap.dir/leap_test.cpp.obj	3256ba3fb3b05d69
+1397	2010	7021886209318000	leap.exe	bd96b640a26c5136
+2011	2311	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+2011	2311	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a
+59	468	7021893240305366	CMakeFiles/leap.dir/leap.cpp.obj	f0233e4d24256333
+470	892	7021893243755647	leap.exe	bd96b640a26c5136
+892	1179	0	CMakeFiles/test_leap	b9ea86afdb1f5f6a
+892	1179	0	C:/Users/Pc/Exercism/cpp/leap/out/build/x64-Debug/CMakeFiles/test_leap	b9ea86afdb1f5f6a

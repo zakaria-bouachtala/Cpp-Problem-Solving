@@ -1,0 +1,27 @@
+# ninja log v5
+53	6160	7022651826847534	CMakeFiles/reverse-string.dir/test/tests-main.cpp.obj	d771fbc9d335bcec
+47	741	7022652797313925	CMakeFiles/reverse-string.dir/reverse_string.cpp.obj	947c4f793070ecbf
+36	1046	7022652800356105	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.obj	624aa5907f262979
+1046	1935	7022652808796734	reverse-string.exe	96aee20ed46f85ce
+1935	2194	0	CMakeFiles/test_reverse-string	4786308ff10a389d
+1935	2194	0	C:/Users/Pc/Exercism/cpp/reverse-string/out/build/x64-Debug/CMakeFiles/test_reverse-string	4786308ff10a389d
+45	803	7022653267517167	CMakeFiles/reverse-string.dir/reverse_string.cpp.obj	947c4f793070ecbf
+35	1103	7022653270517595	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.obj	624aa5907f262979
+1103	1456	7022653273337789	reverse-string.exe	96aee20ed46f85ce
+1456	1555	0	CMakeFiles/test_reverse-string	4786308ff10a389d
+1456	1555	0	C:/Users/Pc/Exercism/cpp/reverse-string/out/build/x64-Debug/CMakeFiles/test_reverse-string	4786308ff10a389d
+26	1308	7022653520092611	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.obj	624aa5907f262979
+1310	1864	7022653524722941	reverse-string.exe	96aee20ed46f85ce
+46	1134	7022657196810350	CMakeFiles/reverse-string.dir/reverse_string.cpp.obj	947c4f793070ecbf
+1135	1835	7022657202890735	reverse-string.exe	96aee20ed46f85ce
+1835	2134	0	CMakeFiles/test_reverse-string	4786308ff10a389d
+1835	2134	0	C:/Users/Pc/Exercism/cpp/reverse-string/out/build/x64-Debug/CMakeFiles/test_reverse-string	4786308ff10a389d
+51	1132	7022659010292465	CMakeFiles/reverse-string.dir/reverse_string.cpp.obj	947c4f793070ecbf
+40	1434	7022659013362698	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.obj	624aa5907f262979
+1434	1884	7022659017092987	reverse-string.exe	96aee20ed46f85ce
+1884	2476	0	CMakeFiles/test_reverse-string	4786308ff10a389d
+1884	2476	0	C:/Users/Pc/Exercism/cpp/reverse-string/out/build/x64-Debug/CMakeFiles/test_reverse-string	4786308ff10a389d
+86	1939	7022678611498516	CMakeFiles/reverse-string.dir/reverse_string_test.cpp.obj	624aa5907f262979
+1941	2669	7022678617518997	reverse-string.exe	96aee20ed46f85ce
+2669	3130	0	CMakeFiles/test_reverse-string	4786308ff10a389d
+2669	3130	0	C:/Users/Pc/Exercism/cpp/reverse-string/out/build/x64-Debug/CMakeFiles/test_reverse-string	4786308ff10a389d

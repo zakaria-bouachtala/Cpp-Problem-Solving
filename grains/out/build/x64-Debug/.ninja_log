@@ -1,0 +1,20 @@
+# ninja log v5
+15	931	7026980906511650	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+21	948	7026980906591648	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+6	1283	7026980909981904	CMakeFiles/grains.dir/grains_test.cpp.obj	ecfe883af0473c4d
+25	4902	7026980946112829	CMakeFiles/grains.dir/test/tests-main.cpp.obj	e8693c3a19bc9fca
+24	1232	7026982794867921	CMakeFiles/grains.dir/grains_test.cpp.obj	ecfe883af0473c4d
+34	4166	7026982824134763	CMakeFiles/grains.dir/test/tests-main.cpp.obj	e8693c3a19bc9fca
+32	889	7026984695166465	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+22	1077	7026984697076588	CMakeFiles/grains.dir/grains_test.cpp.obj	ecfe883af0473c4d
+23	856	7026988213674653	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+857	1662	7026988221345189	grains.exe	647589a6ade9d4b5
+1662	1921	0	CMakeFiles/test_grains	9ed1c5b93f3907e4
+1662	1921	0	C:/Users/Pc/Exercism/cpp/grains/out/build/x64-Debug/CMakeFiles/test_grains	9ed1c5b93f3907e4
+33	990	7026990047412267	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+24	1064	7026990048152280	CMakeFiles/grains.dir/grains_test.cpp.obj	ecfe883af0473c4d
+1065	1377	7026990050642462	grains.exe	647589a6ade9d4b5
+48	1077	7026991654667752	CMakeFiles/grains.dir/grains.cpp.obj	dfa2019164730ac1
+1079	1533	7026991658428055	grains.exe	647589a6ade9d4b5
+1533	1779	0	CMakeFiles/test_grains	9ed1c5b93f3907e4
+1533	1779	0	C:/Users/Pc/Exercism/cpp/grains/out/build/x64-Debug/CMakeFiles/test_grains	9ed1c5b93f3907e4

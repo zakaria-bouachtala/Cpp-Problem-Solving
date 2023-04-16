@@ -1,0 +1,22 @@
+# ninja log v5
+27	442	7025338458820071	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+18	1330	7025338467700733	CMakeFiles/triangle.dir/triangle_test.cpp.obj	7e5c9e314089474a
+35	4506	7025338499377959	CMakeFiles/triangle.dir/test/tests-main.cpp.obj	79efe961d84a893c
+4507	5339	7025338507408560	triangle.exe	5b4bad1a1f633c8e
+22	370	7025339753782289	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+371	701	7025339756442465	triangle.exe	5b4bad1a1f633c8e
+24	382	7025342762827249	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+383	689	7025342765267417	triangle.exe	5b4bad1a1f633c8e
+689	772	0	CMakeFiles/test_triangle	c5fe3668ccd0c9d1
+689	772	0	C:/Users/Pc/Exercism/cpp/triangle/out/build/x64-Debug/CMakeFiles/test_triangle	c5fe3668ccd0c9d1
+21	1170	7025343056481400	CMakeFiles/triangle.dir/triangle_test.cpp.obj	7e5c9e314089474a
+1171	1475	7025343058961617	triangle.exe	5b4bad1a1f633c8e
+7	646	7025347678562774	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+647	1213	7025347683383161	triangle.exe	5b4bad1a1f633c8e
+24	434	7025352322890827	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+436	774	7025352325641026	triangle.exe	5b4bad1a1f633c8e
+47	737	7025353006673419	CMakeFiles/triangle.dir/triangle.cpp.obj	b3073bd630b5aeb6
+23	1118	7025353010513669	CMakeFiles/triangle.dir/triangle_test.cpp.obj	7e5c9e314089474a
+1119	1455	7025353013253893	triangle.exe	5b4bad1a1f633c8e
+1455	1551	0	CMakeFiles/test_triangle	c5fe3668ccd0c9d1
+1455	1551	0	C:/Users/Pc/Exercism/cpp/triangle/out/build/x64-Debug/CMakeFiles/test_triangle	c5fe3668ccd0c9d1
